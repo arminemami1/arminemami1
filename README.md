@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arminemami1
 - 👀 I’m interested in electronics.
-- 🌱 I’m currently learning go language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arminemami1@gmail.com
 
